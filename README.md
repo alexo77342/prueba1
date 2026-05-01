@@ -5,3 +5,6 @@ lo estammos
  ctrl mas O guardar
 luego enter para confirmar el nombre del archivo
 luego ctrl mas x para salir 
+
+
+segundo cambio modificar un archivo exutente
